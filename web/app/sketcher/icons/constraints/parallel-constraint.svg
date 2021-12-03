@@ -1,18 +1,1 @@
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="64"
-  height="64"
-  viewBox="0 0 64 64"
-  stroke="black"
-  fill="gray">
-
-  <g>
-    <path class="line" d="M 21 55 L 21 10" />
-    <circle class="point" cx="21" cy="55" r="5" />
-    <circle class="point" cx="21" cy="10" r="5" />
-
-    <path class="line" d="M 42 55 L 42 10" />
-    <circle class="point" cx="42" cy="55" r="5" />
-    <circle class="point" cx="42" cy="10" r="5" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="gray" stroke="#000" viewBox="0 0 64 64"><g><path d="M 21 55 L 21 10" class="line"/><circle cx="21" cy="55" r="5" class="point"/><circle cx="21" cy="10" r="5" class="point"/><path d="M 42 55 L 42 10" class="line"/><circle cx="42" cy="55" r="5" class="point"/><circle cx="42" cy="10" r="5" class="point"/></g></svg>

@@ -1,14 +1,1 @@
-<svg
-xmlns="http://www.w3.org/2000/svg"
-width="64"
-height="64"
-viewBox="0 0 64 64"
-stroke="black"
-fill="gray">
-
-<g>
-  <path class="line" d="M 32 55 L 32 10" />
-  <circle class="point" cx="32" cy="55" r="5" />
-  <circle class="point" cx="32" cy="10" r="5" />
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="gray" stroke="#000" viewBox="0 0 64 64"><g><path d="M 32 55 L 32 10" class="line"/><circle cx="32" cy="55" r="5" class="point"/><circle cx="32" cy="10" r="5" class="point"/></g></svg>
